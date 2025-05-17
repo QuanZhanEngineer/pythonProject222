@@ -14,7 +14,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="git add . &amp;&amp; git commit -m &quot;自动提交：全部变更&quot;" />
+      <option name="program" value="$PROJECT_DIR$/auto-commit.bat" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
