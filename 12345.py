@@ -22,5 +22,5 @@ def circular_primes(n):
     for i in range(2, n + 1):
         if is_circular_prime(i):
             count += 1
-    return count    
+    return count
 
