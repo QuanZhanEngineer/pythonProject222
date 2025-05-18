@@ -1,4 +1,5 @@
 import math
+import math
 
 def is_prime(n):
     if n < 2:
@@ -10,7 +11,6 @@ def is_prime(n):
 for i in range(1, 100000):
     if is_prime(i):
         print(i)
-
 
 
 
